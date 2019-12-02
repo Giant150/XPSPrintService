@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XPSPrintService", "XPSPrintService\XPSPrintService.csproj", "{FD53F1FB-6E51-4441-9A8E-472837F2985B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordTemplate", "WordTemplate\WordTemplate.csproj", "{1D96A27E-60DC-42C1-A0E0-C9634A5E05AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FD53F1FB-6E51-4441-9A8E-472837F2985B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD53F1FB-6E51-4441-9A8E-472837F2985B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD53F1FB-6E51-4441-9A8E-472837F2985B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D96A27E-60DC-42C1-A0E0-C9634A5E05AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D96A27E-60DC-42C1-A0E0-C9634A5E05AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D96A27E-60DC-42C1-A0E0-C9634A5E05AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D96A27E-60DC-42C1-A0E0-C9634A5E05AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
